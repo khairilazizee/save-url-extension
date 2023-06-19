@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "Video List Saver",
+    "version": "1.0",
+    "description": "Save and manage a list of videos",
+    "permissions": ["storage", "activeTab"],
+    "browser_action": {
+      "default_popup": "popup.html",
+      "default_title": "Video List Saver"
+    }
+  }
+  
